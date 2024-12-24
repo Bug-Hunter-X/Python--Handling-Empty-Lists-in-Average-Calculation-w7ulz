@@ -1,0 +1,1 @@
+This repository demonstrates a common error and its solution in Python related to handling empty lists when calculating the average of numbers. The code in `bug.py` shows the initial code with the error, and `bugSolution.py` contains the corrected code that handles the edge case of an empty list to prevent a ZeroDivisionError.
